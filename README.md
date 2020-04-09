@@ -16,3 +16,7 @@ git clone git@github.com:nazwhale/simple-site-template.git simple-site template
 cd simple-site-template
 open index.html
 ```
+
+3. You should see this. Now mess with it!
+
+![Website preview](https://i.imgur.com/60adElN.png)
