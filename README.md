@@ -37,7 +37,7 @@ Git is a way of interacting with Github via the terminal (aka. the "command line
 
 **`cd`? `open index.html`?**
 
-These are more terminal commands. `cd` means go into this folder (same as clicking on the folder). `open` is just like double clicking on a file. If you prefer you can click around to open `index.html` file, but if you learn some basics of moving around the command line you'll feel like a badass.
+These are more terminal commands. `cd` means go into this folder (same as clicking on the folder). `open` is just like double clicking on a file. If you prefer you can click around to open the `index.html` file, but if you learn some basics of moving around the command line you'll feel like a badass.
 
 [Here's a good little introduction to the command line video](https://youtu.be/mT9GE3pEm8I?t=6).
 
