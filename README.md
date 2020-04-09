@@ -1,6 +1,6 @@
 # Simple site template
 
-A template for a website with html, css, and javascript
+A template for a website with html, css, and javascript. Write in the box and the text below it updates ✨
 
 ### Get started
 
